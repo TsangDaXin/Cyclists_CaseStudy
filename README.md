@@ -1,4 +1,3 @@
-![bicycle png](https://github.com/user-attachments/assets/8d26a186-4e31-4c46-b1ab-2e5e85a90124)
 <p align="center">
   <img src="https://github.com/user-attachments/assets/8d26a186-4e31-4c46-b1ab-2e5e85a90124" alt="Sublime's custom image"/>
 </p>
