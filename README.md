@@ -1,5 +1,6 @@
-
+<p align="center">
 ![bicycle png](https://github.com/user-attachments/assets/8d26a186-4e31-4c46-b1ab-2e5e85a90124)
+</p>
 
 Cyclistic is a bike-based sharing company launched a successful bike-share offering since 2016 , the company has been relied on building general awareness and appealing to broad consumer segments. One approach that helped make these things possible was the flexibility of its pricing plans: single-ride passes, full-day passes, and annual memberships.
 
